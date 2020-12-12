@@ -1,0 +1,4 @@
+Hello World!
+Welcome to GitHub
+Welcome to Git
+Now it's time to learn C
